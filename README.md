@@ -3,4 +3,4 @@
 It is a Machine Learning model, Used to predict any fradulent transaction of a financial company.
 
 # To Run :
-  run    Fraud.py
+  run Fraud.py
